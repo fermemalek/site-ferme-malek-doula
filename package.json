@@ -1,0 +1,10 @@
+{
+  "name": "site-ferme-malek-doula",
+  "version": "1.0.0",
+  "description": "Site vitrine officiel Ferme Malek - Marque DOULA (Aïn Oussara, région de Benhar)",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'Site statique prêt'"
+  }
+}
